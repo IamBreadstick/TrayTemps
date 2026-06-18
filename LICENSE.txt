@@ -1,0 +1,9 @@
+TrayTemps project files generated for personal use.
+
+Review third-party package licenses before redistribution:
+- pystray
+- Pillow
+- WMI
+- pywin32
+- PyInstaller
+- LibreHardwareMonitor, if bundled or redistributed separately

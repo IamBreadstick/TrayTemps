@@ -1,0 +1,13 @@
+@"
+.venv/
+build/
+dist/
+backend/
+sensor_helper/publish/
+__pycache__/
+*.pyc
+*.pyo
+*.spec.bak
+TrayTempsData/
+*.log
+"@ | Set-Content .gitignore
